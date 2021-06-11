@@ -1,2 +1,2 @@
 # happiness_report_analysis
-EDA on happiness report data from kaggle
+This is my submission for [this](https://www.kaggle.com/mathurinache/world-happiness-report) analysing data from the world happiness report.
